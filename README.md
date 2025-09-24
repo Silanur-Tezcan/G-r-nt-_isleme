@@ -1,2 +1,2 @@
-# G-r-nt-_isleme
+# Goruntu_isleme
 python ile görüntü işleme dersleri.
